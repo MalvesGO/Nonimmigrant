@@ -18,6 +18,11 @@ footer img {
     text-align: center;
 }
 
+.created_by a {
+    color: #fff;
+    text-decoration: none;
+}
+
 /* mobile */
 
 @media (max-width: 768px) {
