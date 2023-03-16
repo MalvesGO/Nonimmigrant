@@ -1,0 +1,37 @@
+.startAplication {
+    background-color: #95B3D7;
+    border-left: 1rem solid #6F8DB1;
+    padding: 1rem;
+    border-radius: 8px;
+
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+    margin-bottom: 1rem;
+}
+
+.startAplication p {
+    font-size: 1.2rem;
+    font-weight: 700;
+    color: #000;
+}
+
+.startAplication button {
+    background-color: #9E1A19;
+    color: #fff;
+    border: none;
+    padding: 1rem;
+    border-radius: 0.5rem;
+    font-size: 1rem;
+    font-weight: 700;
+    cursor: pointer;
+
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.startAplication button:hover {
+    background-color: #B81A19;
+    transition: 0.2s ease-in-out;
+}

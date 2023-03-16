@@ -1,0 +1,12 @@
+.important {
+    margin-top: 2rem;
+}
+
+.important ul {
+    list-style: none;
+    margin-top: 1rem;
+}
+
+.important li {
+    margin-bottom: 0.5rem;
+}

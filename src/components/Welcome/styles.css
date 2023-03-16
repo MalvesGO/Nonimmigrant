@@ -1,0 +1,12 @@
+.welcome {
+    padding: 1rem;
+    width: 50%;
+}
+
+/* mobile */
+
+@media (max-width: 768px) {
+    .welcome {
+        width: 100%;
+    }
+}

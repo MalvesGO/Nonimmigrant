@@ -1,0 +1,14 @@
+.additionalInformation {
+    margin-top: 1rem;
+}
+
+.additionalList {
+    margin-top: 1rem;
+    list-style: none;
+}
+
+.additionalList li {
+    display: grid;
+    grid-template-columns: 1fr 100%;
+    gap: 0.5rem;
+}

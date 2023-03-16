@@ -1,0 +1,12 @@
+.languageSection {
+    padding: 1rem;
+    background-color: #E1E5EE;
+    border-radius: 8px;
+}
+
+.languageSection p {
+    margin-top: 1rem;
+    font-size: 1rem;
+    font-weight: 700;
+    color: #9E1A19;
+}

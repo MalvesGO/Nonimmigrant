@@ -1,0 +1,36 @@
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    background: #fff;
+    padding: 2rem 1rem;
+    border-radius: 1rem;
+}
+
+hr {
+    margin: 0.5rem 0;
+    color: #891300;
+}
+
+.title {
+    color: #891300;
+    font-size: 1.4rem;
+    font-weight: 500;
+    margin: 0;
+}
+
+.wrapper {
+    display: flex;
+    width: 100%;
+}
+
+p {
+    font-size: 1.1rem;
+}
+
+/* mobile */
+
+@media (max-width: 768px) {
+    .wrapper {
+        flex-direction: column;
+    }
+}
